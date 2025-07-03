@@ -1,0 +1,8 @@
+apiversion: v1
+kind: deployment
+metadata:
+ name: gittest
+spec:
+  name: gittest
+  image: nginx
+  
