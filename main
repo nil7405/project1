@@ -1,6 +1,11 @@
 prod branch testing.
 
 checking git pull
+<<<<<<< HEAD
 commit from branch main 
 12 ka 4
 42 ka 1
+=======
+commit 1 from branch feature2
+12 ka 5
+>>>>>>> feature2
